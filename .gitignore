@@ -1,5 +1,5 @@
 # build files
-/public
+/public/bundle.js
 
 # dependencies
 /node_modules
