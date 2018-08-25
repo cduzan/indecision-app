@@ -1,0 +1,9 @@
+# build files
+/public
+
+# dependencies
+/node_modules
+
+# yarn files
+yarn.lock
+yarn-error.log
