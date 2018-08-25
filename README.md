@@ -7,3 +7,4 @@ Completed Indecision App to reference for future react projects.
 3. Build files: `yarn run build`
 4. Serve up files for development: `yarn run dev-server`
 5. (alternatively) Serve up files for production: `yarn run serve`
+6. Webpage can be found at localhost:8080
